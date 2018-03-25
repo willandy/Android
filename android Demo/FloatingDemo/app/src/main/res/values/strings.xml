@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FloatingDemo</string>
+
+    <string name="title_delete">Delete</string>
+    <string name="title_share">Share</string>
+    <string name="title_help">Help</string>
+
+    <string-array name="android_versions">
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+        <item>Cupcake</item>
+    </string-array>
+
+</resources>

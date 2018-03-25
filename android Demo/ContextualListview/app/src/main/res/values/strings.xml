@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ContextualListview</string>
+    <string-array name="android_versions">
+      <item>刘德华</item>
+        <item>梁朝伟</item>
+        <item>郭富城</item>
+        <item>黎明</item>
+    </string-array>
+</resources>
